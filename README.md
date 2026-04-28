@@ -47,5 +47,9 @@ The tests verify:
 - Mandatory citations from .gov.pt domains.
 - The agent's behavior towards out-of-scope questions.
 
+## Technical Report
+
+The architectural decisions, evaluation results (V1 vs. V2), and future development steps are detailed in the **`Technical_Report_HomoDeus.pdf`** file, included in the root of this repository.
+
 ---
 Project developed for the HomoDeusAI technical challenge.
